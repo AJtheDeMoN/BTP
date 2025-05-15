@@ -1,0 +1,11 @@
+python main.py --model "MODEL" --prompt "PROMPT"
+
+nvidia-smi
+
+tau_exec python3 main.py --model "CompVis/stable-diffusion-v1-4" --prompt "blue lamborghini beside an apple tree"
+
+tau_exec -T python,profile,PROFILEMEMORY python3 main.py --model "CompVis/stable-diffusion-v1-4" --prompt "blue lamborghini beside an apple tree"
+
+tau_exec -T python,profile,memory python3 main.py --model "CompVis/stable-diffusion-v1-4" --prompt "blue lamborghini beside an apple tree"
+
+tau_exec python3 main.py --model "CompVis/stable-diffusion-v1-4" --prompt "blue lamborghini beside an apple tree"

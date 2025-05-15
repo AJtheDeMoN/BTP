@@ -1,0 +1,24 @@
+CompVis/stable-diffusion-v1-4
+runwayml/stable-diffusion-v1-5
+stabilityai/stable-diffusion-2-base
+stabilityai/stable-diffusion-2-1
+stabilityai/stable-diffusion-xl-base-1.0
+
+
+
+Basic Models:
+CompVis/stable-diffusion-v1-4
+stabilityai/stable-diffusion-v1-4	
+stabilityai/stable-diffusion-v1-5
+runwayml/stable-diffusion-v1-5
+
+
+Intermediate Models:
+stabilityai/stable-diffusion-2-base
+stabilityai/stable-diffusion-2-1
+
+
+Advanced Models:
+stabilityai/stable-diffusion-xl-base-1.0
+stabilityai/stable-diffusion-xl-1.0
+stabilityai/stable-diffusion-xl-1.5
